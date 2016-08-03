@@ -6,6 +6,10 @@ Docs, book, articles
 
 ## APIs
 * The value proposition of Hypermedia - https://lostechies.com/jimmybogard/2014/09/23/the-value-proposition-of-hypermedia/
+
+## Asynchronous programming
+* Task.WhenAll tests - https://blog.scooletz.com/2016/06/15/task-whenall-tests/
+* https://blog.scooletz.com/2016/06/13/rise-of-the-iasyncstatemachines/
  
 ## CQRS
 * CQRS Journey - https://msdn.microsoft.com/en-us/library/jj554200.aspx
@@ -29,3 +33,4 @@ Docs, book, articles
 
 ## Memory
 * What Every Programmer Should Know About Memory - https://www.akkadia.org/drepper/cpumemory.pdf
+* StructLayoutKind.Sequential not - https://blog.scooletz.com/2016/04/06/structlayoutkind-sequential-not/
