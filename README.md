@@ -4,6 +4,9 @@ Docs, book, articles
 ## .NET internals
 * Contruction destruction - https://ericlippert.com/2013/06/10/construction-destruction/
 
+## Angular
+* Styleguide - https://github.com/johnpapa/angular-styleguide
+
 ## APIs
 * The value proposition of Hypermedia - https://lostechies.com/jimmybogard/2014/09/23/the-value-proposition-of-hypermedia/
 
