@@ -21,6 +21,9 @@ Docs, book, articles
 ## Deployments
 * Phoenix Server - http://martinfowler.com/bliki/PhoenixServer.html
 * Blue/Green Deployment - http://martinfowler.com/bliki/BlueGreenDeployment.html
+
+## Design
+* Manuel Bernhardt - http://manuel.bernhardt.io/2016/08/09/akka-anti-patterns-flat-actor-hierarchies-or-mixing-business-logic-and-failure-handling/
  
 ## Event Sourcing
 * Event Sourcing by Martin Fowler - http://martinfowler.com/eaaDev/EventSourcing.html
