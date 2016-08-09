@@ -40,3 +40,6 @@ Docs, book, articles
 ## Memory
 * What Every Programmer Should Know About Memory - https://www.akkadia.org/drepper/cpumemory.pdf
 * StructLayoutKind.Sequential not - https://blog.scooletz.com/2016/04/06/structlayoutkind-sequential-not/
+
+## Monitoring
+* Sebastian Gebski - http://no-kill-switch.ghost.io/white-box-monitoring-setup-as-a-1st-class-citizen-in-your-code/
