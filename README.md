@@ -9,6 +9,7 @@ Docs, book, articles
 
 ## APIs
 * The value proposition of Hypermedia - https://lostechies.com/jimmybogard/2014/09/23/the-value-proposition-of-hypermedia/
+* API guidelines by Microsoft - https://github.com/Microsoft/api-guidelines
 
 ## Asynchronous programming
 * Task.WhenAll tests - https://blog.scooletz.com/2016/06/15/task-whenall-tests/
