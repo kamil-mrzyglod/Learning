@@ -38,6 +38,10 @@ Docs, book, articles
 ## Git
 * A Tale of Three Trees - https://www.infoq.com/presentations/A-Tale-of-Three-Trees
 
+## Good habits
+* http://c2.com/cgi/wiki?DontUseExceptionsForFlowControl
+* http://c2.com/cgi/wiki?TellDontAsk
+
 ## High scalability
 * Elements Of Scale: Composing And Scaling Data Platforms - http://highscalability.com/blog/2015/5/4/elements-of-scale-composing-and-scaling-data-platforms.html
 
