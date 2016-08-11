@@ -1,6 +1,9 @@
 # Learning
 Docs, book, articles
 
+## x86
+* https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
+
 ## .NET internals
 * Contruction destruction - https://ericlippert.com/2013/06/10/construction-destruction/
 
