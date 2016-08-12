@@ -51,3 +51,6 @@ Docs, book, articles
 
 ## Monitoring
 * Sebastian Gebski - http://no-kill-switch.ghost.io/white-box-monitoring-setup-as-a-1st-class-citizen-in-your-code/
+
+## Performance
+* http://aras-p.info/blog/2016/08/09/More-Hash-Function-Tests/
