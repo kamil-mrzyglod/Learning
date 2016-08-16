@@ -54,3 +54,7 @@ Docs, book, articles
 
 ## Performance
 * http://aras-p.info/blog/2016/08/09/More-Hash-Function-Tests/
+
+## SOA
+* Weronika Łabaj - http://particular.net/blog/goodbye-microservices-hello-right-sized-services
+* Christian Posta - http://blog.christianposta.com/microservices/the-real-success-story-of-microservices-architectures/
