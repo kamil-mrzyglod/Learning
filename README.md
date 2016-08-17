@@ -35,6 +35,9 @@ Docs, book, articles
 ## Functional programming
 * THE ESSENCE OF LINQ – MINLINQ - http://blogs.bartdesmet.net/blogs/bart/archive/2010/01/01/the-essence-of-linq-minlinq.aspx
 
+## Garbage collector
+* http://mattwarren.org/2016/08/16/Preventing-dotNET-Garbage-Collections-with-the-TryStartNoGCRegion-API/
+
 ## Git
 * A Tale of Three Trees - https://www.infoq.com/presentations/A-Tale-of-Three-Trees
 
