@@ -4,6 +4,9 @@ Docs, book, articles
 ## x86
 * https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
 
+## .NET
+* HttpClient issues - https://www.infoq.com/news/2016/09/HttpClient
+
 ## .NET internals
 * Contruction destruction - https://ericlippert.com/2013/06/10/construction-destruction/
 
